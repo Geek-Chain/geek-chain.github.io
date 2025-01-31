@@ -1,0 +1,7 @@
+{
+  "name": "GeekChain",
+  "symbol": "GCTT",
+  "decimals": 9,
+  "image": "https://geek-chain.github.io/media/ton/logo/geekchain.png",
+  "description": "GeekChain test token"
+}
