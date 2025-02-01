@@ -3,5 +3,11 @@
   "symbol": "GCTT",
   "decimals": 9,
   "image": "https://geek-chain.github.io/media/ton/logo/geekchain.png",
-  "description": "GeekChain test token"
+  "description": "GeekChain test token",
+  "social": [
+    "https://t.me/geekchain_official"
+  ],
+  "websites": [
+    "https://geekchain.io"
+  ]
 }
